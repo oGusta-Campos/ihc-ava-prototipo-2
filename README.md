@@ -1,12 +1,12 @@
-# Fase 5 - Protótipo interativo V1
+# Fase 6 - Protótipo interativo V2
 
-O protótipo transforma as sete telas da Fase 4 em fluxos clicáveis para consulta de cursos/prazos, entrega e substituição de PDF, calendário e início de questionário.
+Versão corrigida do protótipo da Fase 5. Mantém as sete telas da Fase 4 e os fluxos de consulta de cursos/prazos, entrega e substituição de PDF, calendário e início de questionário, com as mudanças C01–C07 descritas em [MUDANCAS.md](MUDANCAS.md).
 
-Repositório público do código: https://github.com/oGusta-Campos/ihc-ava-prototipo
+Versão anterior (V1, Fase 5): código em https://github.com/oGusta-Campos/ihc-ava-prototipo e protótipo em https://ihc-ava-prototipo.vercel.app.
 
 ## Protótipo online
 
-[Abrir o protótipo interativo](https://ihc-ava-prototipo.vercel.app/#courses)
+[Link do V2 a definir após publicar no Vercel]
 
 Abra o link no navegador para realizar os testes. A sessão fictícia de estudante já está disponível e não exige matrícula ou senha do AVA.
 
@@ -25,6 +25,8 @@ Se o navegador restringir o uso de arquivos locais, o grupo pode servir essa pas
 3. Selecione **Inicial** e clique **Preparar cenário**.
 4. Abra a tela do participante e aplique as seis tarefas do roteiro.
 5. Registre sucesso, tempo e comentários. Exporte o CSV ao final.
+
+O roteiro `Roteiro_Fase5.pdf` continua valendo; veja em MUDANCAS.md os dois critérios do moderador (T5 e T6) que mudam de texto.
 
 Use **Entrega existente** para preparar T5 quando T4 não tiver sido concluída. O cenário **Falha no primeiro envio** está disponível para o piloto de recuperação; ele não integra as seis tarefas principais.
 
