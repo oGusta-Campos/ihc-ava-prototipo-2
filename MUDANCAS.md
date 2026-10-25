@@ -49,6 +49,7 @@ No modelo da Fase 6, C07 estava como "Fase 7" (esforço alto). Ela foi feita ago
 ## Outras alterações técnicas
 - Estado salvo com outra chave (`ihc-fase6-v2`), para v1 e v2 não se misturarem no mesmo navegador.
 - Rodapé e faixa de demonstração identificam a versão V2.
+- Identidade visual em tons de verde (cabeçalho, botões principais, rótulos, lembrete, recibo e tabelas) para diferenciar o v2 do v1, que é em tons de cinza. Os pares de cor de texto e fundo têm contraste de pelo menos 6,8:1 (WCAG AA exige 4,5:1).
 - Telas no celular (390 px) conferidas sem rolagem horizontal da página: `v2_mobile_S1.png`, `v2_mobile_S2.png`.
 
 ## Efeito no roteiro de testes (T1–T6)
